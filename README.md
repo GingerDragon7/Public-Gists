@@ -24,6 +24,7 @@ The no. of details can be adjusted by modifying the per_page in api.
 
 Screenshot:
 
-![Uploading Screenshot (242).png…]()
+![screenshot 242](https://user-images.githubusercontent.com/17198965/29465925-9378d1d4-8458-11e7-9263-d80a13dc9bec.png)
+
 
 
