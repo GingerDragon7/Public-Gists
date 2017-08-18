@@ -22,3 +22,8 @@ It also performs the following functionalities:
 Currently,it displays 30 details in one page using https://api.github.com/gists/public?page=1&per_page=30
 The no. of details can be adjusted by modifying the per_page in api. 
 
+Screenshot:
+
+![Uploading Screenshot (242).png…]()
+
+
