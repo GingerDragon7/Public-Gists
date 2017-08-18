@@ -4,8 +4,11 @@ This project uses a  GitHub REST API to fetch a list of public gists and display
 It displays the following information about the corresponding gist:
 
 • login of the gist owner
+
 • description of the gist if any, OR the string “No Description” otherwise
+
 • last updated date in the format DD/MM/YYYY
+
 • link to the gist which should open in a new tab on clicking
 
 It also performs the following functionalities:
