@@ -9,7 +9,7 @@ It displays the following information about the corresponding gist:
 
 • last updated date in the format DD/MM/YYYY
 
-• link to the gist which should open in a new tab on clicking
+• link to the gist which opens in a new tab on clicking
 
 It also performs the following functionalities:
 
@@ -18,4 +18,7 @@ It also performs the following functionalities:
 
 • Client-side sorting of the fetched gists by last updated date
 (hover the mouse cursor above the Last updated date and click it,the details will be sorted according to Last updated date)
+
+Currently,it displays 30 details in one page using https://api.github.com/gists/public?page=1&per_page=30
+The no. of details can be adjusted modifying the page details in api. 
 
