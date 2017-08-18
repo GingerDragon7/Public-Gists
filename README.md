@@ -20,5 +20,5 @@ It also performs the following functionalities:
 (hover the mouse cursor above the Last updated date and click it,the details will be sorted according to Last updated date)
 
 Currently,it displays 30 details in one page using https://api.github.com/gists/public?page=1&per_page=30
-The no. of details can be adjusted by modifying the page_page in api. 
+The no. of details can be adjusted by modifying the per_page in api. 
 
