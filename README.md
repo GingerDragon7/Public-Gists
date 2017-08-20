@@ -26,5 +26,11 @@ Screenshot:
 
 ![screenshot 242](https://user-images.githubusercontent.com/17198965/29465925-9378d1d4-8458-11e7-9263-d80a13dc9bec.png)
 
+Updated Version : 
+
+![screenshot 247](https://user-images.githubusercontent.com/17198965/29496350-69313b68-85ee-11e7-9864-af390946f5f6.png)
+
+
+
 
 
