@@ -28,7 +28,7 @@ Screenshot:
 
 Updated Version : 
 
-![screenshot 247](https://user-images.githubusercontent.com/17198965/29496350-69313b68-85ee-11e7-9864-af390946f5f6.png)
+![screenshot 248](https://user-images.githubusercontent.com/17198965/29496363-9fa9e366-85ee-11e7-97e0-41f7804fbd2d.png)
 
 
 
