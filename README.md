@@ -25,7 +25,9 @@ The no. of details can be adjusted by modifying the per_page in api url.
 On clicking the button to fetch details,30 details of a corressponding page will be displayed each time.
 (hover the mouse cursor on the page no. to view the details of that page)
 
-From any page,you can go to the top/home page by clicking this arrow.![arrow_up](https://user-images.githubusercontent.com/17198965/29506616-56171616-866a-11e7-8eb6-ad37832ddece.png)
+From any page,you can go to the top/home page by clicking this arrow.
+![arrow_up](https://user-images.githubusercontent.com/17198965/29506616-56171616-866a-11e7-8eb6-ad37832ddece.png)
+
 
 Screenshots:
 
@@ -33,10 +35,10 @@ Screenshots:
 
 
 
+
 ![screenshot 258](https://user-images.githubusercontent.com/17198965/29506003-11c3278c-8667-11e7-8d9b-a22647eec577.png)
 
-
-The arrow button to scroll-up.
+The arrow key to scroll-up.
 
 
 
