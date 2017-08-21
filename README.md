@@ -24,7 +24,8 @@ The no. of details can be adjusted by modifying the per_page in api url.
 
 Screenshots:
 
-![screenshot 242](https://user-images.githubusercontent.com/17198965/29465925-9378d1d4-8458-11e7-9263-d80a13dc9bec.png)
+![screenshot 257](https://user-images.githubusercontent.com/17198965/29506073-687ef6a0-8667-11e7-8300-59c3e1c78c97.png)
+
 
 
 ![screenshot 258](https://user-images.githubusercontent.com/17198965/29506003-11c3278c-8667-11e7-8d9b-a22647eec577.png)
