@@ -1,15 +1,15 @@
 # Public-Gists
 This project uses a  GitHub REST API to fetch a list of public gists and display them on a html page in a grid format.
 
-• It displays the following information about the corresponding gist:
+It displays the following information about the corresponding gist:
 
-- login of the gist owner
+• login of the gist owner
 
-- description of the gist if any, OR the message “No Description” otherwise
+• description of the gist if any, OR the message “No Description” otherwise
 
-- last updated date in the format DD/MM/YYYY
+• last updated date in the format DD/MM/YYYY
 
-- link to the gist which opens in a new tab on clicking
+• link to the gist which opens in a new tab on clicking
 
 It also performs the following functionalities:
 
