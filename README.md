@@ -22,13 +22,13 @@ It also performs the following functionalities:
 Currently,it displays 30 details in one page using https://api.github.com/gists/public?page=1&per_page=30
 The no. of details can be adjusted by modifying the per_page in api url. 
 
-Screenshot:
+Screenshots:
 
 ![screenshot 242](https://user-images.githubusercontent.com/17198965/29465925-9378d1d4-8458-11e7-9263-d80a13dc9bec.png)
 
-Updated Version : 
 
-![screenshot 248](https://user-images.githubusercontent.com/17198965/29496363-9fa9e366-85ee-11e7-97e0-41f7804fbd2d.png)
+![screenshot 258](https://user-images.githubusercontent.com/17198965/29506003-11c3278c-8667-11e7-8d9b-a22647eec577.png)
+
 
 
 
